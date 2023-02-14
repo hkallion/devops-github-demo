@@ -1,7 +1,7 @@
 
 ## LAN network
 
-Configuration here:
+Configuration
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- IP range 192.168.0.1 - 192.168.0.1
+- Gateway 192.168.0.1
