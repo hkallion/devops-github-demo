@@ -3,6 +3,6 @@
 
 Configuration here:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+monthly full backup, daily increments. 
 
-
+6 months retention.
